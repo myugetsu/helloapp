@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HellloApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="firstname">firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="sex">sex</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="submit">submit</string>
+
+</resources>
