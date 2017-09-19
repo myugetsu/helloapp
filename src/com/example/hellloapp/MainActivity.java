@@ -13,7 +13,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
 	  private TextView text;
 
-	  Button submit;
+	  Button submits;
 
 	  EditText firstname;
 
